@@ -1,4 +1,4 @@
-# tic-tac-toe
-this is a tic-tactoe game coded on R
+# connect four
+this is a connect_four game coded on R
 Time for edit this file
-#Looks great!
+
